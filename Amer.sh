@@ -3,8 +3,8 @@ p='\033[1;35m'
 clear
 echo -e "\033[1;32m"
 echo "         {Ctrl C} exit "
-echo "[1] Download Virus4 versions {4.6.8}"
-echo "[2] Download Virus4 versions {5.0.0}"
+echo "[1] Download Virus4. versions {4.6.8}"
+echo "[2] Download Virus4. versions {5.0.0}"
 echo ""
 echo -e "$p"
 read -p  "number-------> " download
